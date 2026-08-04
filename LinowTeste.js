@@ -57,4 +57,4 @@ calcularMedia();
 console.log(`Média de pontos: ${mediaPontuacao}`);
 
 encontrarMaiorPontuacao();
-console.log(`Maior pontuação: ${maiorPontuacao}`);
+console.log(`Maior pontuação: ${maiorPontuacao}`);;
